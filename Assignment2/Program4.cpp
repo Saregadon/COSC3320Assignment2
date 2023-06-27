@@ -77,8 +77,6 @@ complexity and do not depend on the input size.
 Overall, the space complexity of the program is O(n^2), where n is the matrix size. The space required for additional variables is 
 negligible.
 
-Here's the updated program with added documentation and notes:
-
 Run 1:
 Clock time for n size 16: 44.43 seconds
 Clock time for n size 64: 44.19 seconds
